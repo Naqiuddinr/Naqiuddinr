@@ -1,8 +1,9 @@
 - 👋 Hello! I’m Naqiuddin Rosli
-- 👀 I am a Mechanical Engineer turned Software Developer
+- ⚙️ I am a Mechanical Engineer turned Software Developer
 - 🌱 Used to work in the Construction industry, decided to make a shift after 5 years
 - 💻 My decision was fueled by my passion of creating something of my own
 - 📫 You can also reach me through linkedin.com/in/naqiuddin-rosli/
+- 👀 I can do responsive and funky websites too, hit me up if you're interested!
 
 <!---
 Naqiuddinr/Naqiuddinr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
